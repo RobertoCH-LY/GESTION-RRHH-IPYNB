@@ -1,0 +1,48 @@
+============================================================
+FICHA DEL EMPLEADO
+============================================================
+
+Martínez López, Ana
+
+
+NIF: 12345678Z                     NAF: 281234567840                       
+Fecha alta: 01/02/2023             Fecha baja: 07/12/2025                         
+
+CONCEPTOS SALARIALES
+Salario mensual: 2500.0            Salario anual: 35000.0                            
+Prorrata: 416.67                   Número de pagas: 14                                 
+
+------------------------------------------------------------
+
+============================================================
+FICHA DEL EMPLEADO
+============================================================
+
+García Pérez, Luis
+Av. Diagonal 100, 08018 Barcelona
+
+NIF: 87654321X                     NAF: 080001234552                       
+Fecha alta: 10/05/2024             Fecha baja:                                    
+
+CONCEPTOS SALARIALES
+Salario mensual: 2100.5            Salario anual: 25206.0                            
+Prorrata: 0                        Número de pagas: 12                                 
+
+------------------------------------------------------------
+
+============================================================
+FICHA DEL EMPLEADO
+============================================================
+
+Ruiz Santos, Clara
+Plaza España 2, 41001 Sevilla
+
+NIF: 44444444A                     NAF: 410009876531                       
+Fecha alta: 15/01/2025             Fecha baja:                                    
+
+CONCEPTOS SALARIALES
+Salario mensual: 1500.0            Salario anual: 21000.0                            
+Prorrata: 250.0                    Número de pagas: 14                                 
+
+------------------------------------------------------------
+
